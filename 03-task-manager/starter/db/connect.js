@@ -1,0 +1,1 @@
+const connnectionString = 'mongodb+srv://Kiki:Kb324239@nodeexpressprojects.lnllk8p.mongodb.net/?appName=NodeExpressProjects';
