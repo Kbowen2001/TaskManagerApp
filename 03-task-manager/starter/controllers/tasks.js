@@ -1,7 +1,7 @@
 
 
 const getAllTasks = (req, res) => {
-    res.send('all items from the file');
+    res.send('get all the tasks');
 };
 
 
