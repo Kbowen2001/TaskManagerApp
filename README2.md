@@ -1,7 +1,7 @@
 Personal Notes:
 
 Youtube Tutorial- https://www.youtube.com/watch?v=qwfE7fSVaZM
-video left off: 1hr
+video left off: 1:25:58
 
 Postman: where the routes are set up 
 
