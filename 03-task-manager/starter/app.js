@@ -29,7 +29,7 @@ app.listen(port, () => {
 
 const start = async () => {
     try {
-        await connectDB('mongodb://Kiki:Kb324239@ac-vdfhxqj-shard-00-00.lnllk8p.mongodb.net:27017,ac-vdfhxqj-shard-00-01.lnllk8p.mongodb.net:27017,ac-vdfhxqj-shard-00-02.lnllk8p.mongodb.net:27017/?authSource=admin&replicaSet=atlas-i0koh8-shard-0&tls=true&appName=NodeExpressProjects');
+        await connectDB(process.env.MONGO_URI);
         app.listen(port, () => {
             console.log(`Server is listening on port ${port}`);
         });
