@@ -20,12 +20,7 @@ app.get('/hello', (req, res) => {
 
 app.use('/api/v1/tasks', tasks);  
 
-const port = 3000;
-
-app.listen(port, () => {
-    console.log(`Server is listening on port ${port}`);
-});
-
+const port = process.env.PORT || 3000;
 
 const start = async () => {
     try {
@@ -37,6 +32,8 @@ const start = async () => {
         console.log(error);
     }
 }
+
+start();
 
 
 
