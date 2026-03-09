@@ -3,7 +3,7 @@ Personal Notes:
 CRUD =  Create Read Update Delete 
 
 Youtube Tutorial- https://www.youtube.com/watch?v=qwfE7fSVaZM
-video left off: 2:45:58
+video left off: 2:50:00
 
 Postman: where the routes are set up 
 
