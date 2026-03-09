@@ -19,4 +19,4 @@ Expressjs.com = Index and help for apis
 Store API:
 
 Youtube Tutorial- https://www.youtube.com/watch?v=qwfE7fSVaZM
-video left off: 3:09:01
+video left off: 3:19:01 
