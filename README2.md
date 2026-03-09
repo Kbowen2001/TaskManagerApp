@@ -16,7 +16,9 @@ Mongoose Docs (index for mongoose)- https://mongoosejs.com/docs/guide.html
 Expressjs.com = Index and help for apis 
 
 
-Store API:
+04-Store API:
 
 Youtube Tutorial- https://www.youtube.com/watch?v=qwfE7fSVaZM
 video left off: 3:32:01 
+
+products.json folder is a list of the prodcuts the schema from the model files' product.js file 
