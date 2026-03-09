@@ -1,4 +1,4 @@
-Personal Notes:
+Task Manager:
 
 CRUD =  Create Read Update Delete 
 
@@ -14,3 +14,9 @@ Mongoose link- https://mongoosejs.com/
 Mongoose Docs (index for mongoose)- https://mongoosejs.com/docs/guide.html
 
 Expressjs.com = Index and help for apis 
+
+
+Store API:
+
+Youtube Tutorial- https://www.youtube.com/watch?v=qwfE7fSVaZM
+video left off: 3:09:01
