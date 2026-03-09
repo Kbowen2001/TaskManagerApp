@@ -19,6 +19,6 @@ Expressjs.com = Index and help for apis
 04-Store API:
 
 Youtube Tutorial- https://www.youtube.com/watch?v=qwfE7fSVaZM
-video left off: 3:55:01 
+video left off: 4:13:01 
 
 products.json folder is a list of the prodcuts the schema from the model files' product.js file 
