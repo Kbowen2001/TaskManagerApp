@@ -20,7 +20,7 @@ const getAllProducts = async (req, res) => {
   }
   if(company){
     queryObject.company = company;
-  }
+  } 
   if(name){
     queryObject.name = { $regex: name, $options: 'i' };
   }
