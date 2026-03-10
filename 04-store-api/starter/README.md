@@ -1,0 +1,1 @@
+MONGO_URI=mongodb://Kiarra:04092001@ac-vdfhxqj-shard-00-00.lnllk8p.mongodb.net:27017,ac-vdfhxqj-shard-00-01.lnllk8p.mongodb.net:27017,ac-vdfhxqj-shard-00-02.lnllk8p.mongodb.net:27017/store-api?ssl=true&replicaSet=atlas-i0koh8-shard-0&authSource=admin&retryWrites=true&w=majority&appName=NodeExpressProjects
